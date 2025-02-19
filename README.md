@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Hassan Masood</h1>
 <h3 align="center">A passionate Full stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [shopping app](https://www.packetbyhassan.store/)
+- 🤝 My Personal [Portfolio Link](https://www.hassandeveloper.site/)
 
 - 🌱 I’m currently learning **Currently learning Next.js with a focus on performance optimization**
 
+- 🔭 I’m currently working on [shopping app](https://www.packetbyhassan.store/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/hassanmasood200716](https://github.com/hassanmasood200716)
+
+- 📝 I regularly write articles on [https://hassandeveloper.site/blog](https://hassandeveloper.site/blog)
 
 - 💬 Ask me about **html, css ,javascript, react.js, next.js, gsap**
 
 - 📫 How to reach me **hassanmasooddeveloper@gmail.com**
+
+- 📄 Know about my skills [https://hassandeveloper.site/skills](https://hassandeveloper.site/skills)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
